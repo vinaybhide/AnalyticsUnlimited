@@ -17,6 +17,6 @@ Dependencies:
 
 Required folder:
   1. Each method will fetch real-time data from market
-  2. 
+  2. It will save the fetched data to supplied folder
 All API methods are exposed as static methods.
 
