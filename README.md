@@ -20,3 +20,4 @@ Required folder:
   2. It will save the fetched data to supplied folder
 All API methods are exposed as static methods.
 
+USAGE: Please refer to "Analytics" project which is using the API to fetch data
